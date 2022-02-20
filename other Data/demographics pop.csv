@@ -1,0 +1,62 @@
+Label (Grouping),"Ames city, Iowa!!Total population!!Number","Ames city, Iowa!!Total population!!Percent"
+Total population,"50,731",100
+    SEX AND AGE,,
+        Male,"26,491",52.2
+        Female,"24,240",47.8
+        Under 5 years,"2,237",4.4
+        5 to 9 years,"1,950",3.8
+        10 to 14 years,"1,953",3.8
+        15 to 19 years,"6,880",13.6
+        20 to 24 years,"14,700",29
+        25 to 34 years,"7,192",14.2
+        35 to 44 years,"4,851",9.6
+        45 to 54 years,"4,435",8.7
+        55 to 59 years,"1,444",2.8
+        60 to 64 years,"1,196",2.4
+        65 to 74 years,"1,957",3.9
+        75 to 84 years,"1,363",2.7
+        85 years and over,573,1.1
+        Median age (years),23.6,(X)
+        18 years and over,"43,320",85.4
+            Male,"22,681",44.7
+            Female,"20,639",40.7
+        21 years and over,"33,721",66.5
+        62 years and over,"4,612",9.1
+        65 years and over,"3,893",7.7
+            Male,"1,580",3.1
+            Female,"2,313",4.6
+RELATIONSHIP,,
+    Population,"50,731",100
+        In households,"41,609",82
+            Householder,"18,085",35.6
+            Spouse,"7,587",15
+            Child,"8,191",16.1
+                Own child under 18 years,"7,087",14
+            Other relatives,804,1.6
+                Under 18 years,147,0.3
+            Nonrelatives,"6,942",13.7
+                Unmarried partner,849,1.7
+        In group quarters,"9,122",18
+            Institutionalized population,186,0.4
+            Noninstitutionalized population,"8,936",17.6
+HOUSEHOLDS BY TYPE,,
+    Households,"18,085",100
+        Family households (families),"8,969",49.6
+            With own children under 18 years,"4,028",22.3
+            Married-couple family,"7,587",42
+                With own children under 18 years,"3,286",18.2
+"            Female householder, no husband present",962,5.3
+                With own children under 18 years,595,3.3
+        Nonfamily households,"9,116",50.4
+            Householder living alone,"5,163",28.5
+                Householder 65 years and over,"1,070",5.9
+        Households with individuals under 18 years,"4,149",22.9
+        Households with individuals 65 years and over,"2,564",14.2
+        Average household size,2.3,(X)
+        Average family size,2.85,(X)
+HOUSING TENURE,,
+    Occupied housing units,"18,085",100
+        Owner-occupied housing units,"8,337",46.1
+        Renter-occupied housing units,"9,748",53.9
+        Average household size of owner-occupied unit,2.52,(X)
+        Average household size of renter-occupied unit,2.11,(X)
