@@ -31,4 +31,5 @@ https://www.kaggle.com/marcopale/housing
 6. Check performance of the model. 
 
 Presentation
-(Presenting February 21, 2022 via Zoom to students, faculty and prospective employers.)
+(Presented February 21, 2022 via Zoom to students, faculty and prospective employers.)
+https://vimeo.com/680143023
