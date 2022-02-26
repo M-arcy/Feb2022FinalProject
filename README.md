@@ -1,5 +1,4 @@
-# 
-Predicting Housing Prices - Final Project
+#Predicting Housing Prices - Final Project
 
 
 
