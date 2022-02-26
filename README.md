@@ -16,21 +16,23 @@ The original data can be found at the following link:
 https://www.kaggle.com/marcopale/housing
 
 
-2. Data Cleaning and Exploratory Data Analysis
+2. Data Cleaning 
     - Mitigated missing values and data types. LotFrontage null values received an average of all frontage values; other columns were dropped. 
+    - Label encoding, replacing categorical values with numeric using a simple for loop. One-hot encoding was not appropriate for the entire dataset; it increased the dimensionality of the dataset and was computationally expensive. While one-hot encoding would have worked perfectly for the Alley column, creating a binary 0 or 1 column denoting the presence or absence of an alley behind each house, it didn't further my purposes in this application.  
+
+3. Exploratory Data Analysis
     -Summary statistics, graphs and check for normal distribution, if needed.
-    - Label encoding. One-hot encoding was not appropriate for this dataset; it increased the dimensionality of the dataset and was computationally expensive. While one-hot encoding would have worked perfectly for the Alley column, creating a binary 0 or 1 column denoting the presence or absence of an alley behind each house, it didn't further my purposes in this application.  
 
-3. Data Analysis in R
+4. Data Analysis in R
 
-4. Data Visualization using Python
+5. Data Visualization using Python, Tableau, Excel and R
     - bar graphs, scatter plots, histogram, correlation plot, heat map
     - save to png for use in slide deck presentation.
 
 
-5. Splitting into training and testing sets. Assessing K Nearest Neighbors, Random Forest, Stepwise regression.
+6. Splitting into training and testing sets. Assessing K Nearest Neighbors, Random Forest, Stepwise regression.
 
-6. Check performance of the model. 
+7. Check performance of the model. 
 
 Presentation
 Presented February 21, 2022 via Zoom to students, faculty and prospective employers.
