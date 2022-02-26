@@ -1,5 +1,8 @@
-# Feb2022FinalProject
+# 
 Predicting Housing Prices - Final Project
+
+[wordcloud.pptx](https://github.com/M-arcy/Feb2022FinalProject/files/8147623/wordcloud.pptx)
+
 
 In February 2021, Zillow announced a new home-buying arm of its business using artificial intelligence to make purchases of homes to modestly renovate and resell at a profit. The iBuying plan lasted just 9 months before the company announced it was closing down the venture. During the fourth quarter, Zillow lost an average of about $25,000 on every home it sold, before interest expense, the company said. They posted a loss of $528 million last year, laid off a quarter of their workforce, and were stuck trying to move some 7,000 homes after volatile changes in the market knocked the machine learning algorithm off its price-predicting axis.
  The company has announced to shareholders it is targeting revenue of $5 billion by 2025. Will it rejoin the machine learning push to predict future housing prices? What are some things they can have do differently? 
