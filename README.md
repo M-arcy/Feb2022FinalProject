@@ -39,9 +39,11 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
 ## 8. Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=M-arcy)
 
-# Presentation
-## **Presented February 21, 2022 via Zoom to students, faculty and prospective employers.**
+## Presentation
+#### **Presented February 21, 2022 via Zoom to students, faculty and prospective employers.**
 
-### View the project presentation video on VIMEO. Instructor critique begins at 35:17.
+#### View the project presentation video here, on [Vimeo](https://vimeo.com/680143023/). 
 
-https://vimeo.com/680143023
+###### Instructor critique begins at 35:17.
+
+
