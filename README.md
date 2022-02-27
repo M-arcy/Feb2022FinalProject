@@ -50,5 +50,6 @@ One of the more interesting visualizations revealed where investment opportuniti
 #### View the project presentation video here, on [Vimeo](https://vimeo.com/680143023/). 
 
 ###### Instructor critique begins at 35:17.
+ [Follow along with a PDF version of the slide deck presentation.](./Powerpoint%20in%20PDF/Final%20Project%20Presentation%20PDF.pdf)
 
 
