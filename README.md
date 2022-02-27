@@ -27,6 +27,9 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
     -Summary statistics, graphs and check for normal distribution, if needed.
     
 ## 4. Data Analysis in R
+   - [Housing Analysis in R](https://github.com/M-arcy/Feb2022FinalProject/blob/main/Data%20Analysis%20in%20R/House%20analysis%20in%20R.ipynb)
+   - [Housing Analysis in R](./blob/main/Data%20Analysis%20in%20R/House%20analysis%20in%20R.ipynb)
+   - [Housing Analysis in R](./Data%20Analysis%20in%20R/House%20analysis%20in%20R.ipynb)
 
 ## 5. Data Visualization using Python, Tableau, Excel and R
     - bar graphs, scatter plots, histogram, correlation plot, heat map
