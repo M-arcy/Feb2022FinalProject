@@ -25,7 +25,7 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
 
 ## 3. Exploratory Data Analysis
     -Summary statistics, graphs and check for normal distribution, if needed.
-    
+   - [Exploratory Analysis in Python - Relative Path](./Exploratory%20Analysis%20in%20Python/Visualization%20in%20Python.ipynb)
 ## 4. Data Analysis in R 
 
    - [Housing Analysis in R - Absolute Path](https://github.com/M-arcy/Feb2022FinalProject/blob/main/Data%20Analysis%20in%20R/House%20analysis%20in%20R.ipynb)
