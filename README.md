@@ -32,10 +32,12 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
     - bar graphs, scatter plots, histogram, correlation plot, heat map
     - save to png for use in slide deck presentation.
 
-
+One of the more interesting visualizations revealed where investment opportunities lie within this dataset. Houses on the lower end of the overall condition score are selling at lower prices: these are the homes that would benefit from remodeling and selling at a higher price. 
+<img src="Visuals_Graphs/CondPriceFig.png" width=400>
 ## 6. Splitting into training and testing sets. Assessing K Nearest Neighbors, Random Forest, Stepwise regression.
 
 ## 7. Check performance of the model. 
+
 ## 8. Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=M-arcy)
 
