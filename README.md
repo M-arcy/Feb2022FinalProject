@@ -38,7 +38,7 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
 One of the more interesting visualizations revealed where investment opportunities lie within this dataset. Houses on the lower end of the overall condition score are selling at lower prices: these are the homes that would benefit from remodeling and selling at a higher price. 
 <img src="Visuals_Graphs/CondPriceFig.png" width=400>
 ## 6. Splitting into training and testing sets. Assessing K Nearest Neighbors, Random Forest, Stepwise regression.
-
+- [K Means and K Nearest Neighbors](./Analysis%20in%20Python/k-Means%20and%20K-Nearest%20Neighbors.ipynb)
 ## 7. Check performance of the model. 
 
 ## 8. Github Stats
