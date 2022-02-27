@@ -19,13 +19,13 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
 
 ## 2. Data Cleaning 
     - Mitigated missing values and data types. 
-        LotFrontage null values received an average of all frontage values; other columns were                  dropped. 
+    - LotFrontage null values received an average of all frontage values; other columns were dropped. 
     - Label encoding, replacing categorical values with numeric using a simple for loop. 
-        One-hot encoding was not appropriate for the entire dataset; it increased the dimensionality of the dataset and was computationally expensive. While one-hot encoding would have worked perfectly for the Alley column, creating a binary 0 or 1 column denoting the presence or absence of an alley behind each house, it didn't further my purposes in this application.  
+    
 
 ## 3. Exploratory Data Analysis
     -Summary statistics, graphs and check for normal distribution, if needed.
-
+    
 ## 4. Data Analysis in R
 
 ## 5. Data Visualization using Python, Tableau, Excel and R
@@ -36,11 +36,11 @@ This dataset is available from Kaggle and contains 79 columns (independent varia
 ## 6. Splitting into training and testing sets. Assessing K Nearest Neighbors, Random Forest, Stepwise regression.
 
 ## 7. Check performance of the model. 
-## 8. Stats and Usage of this Repo
+## 8. Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=M-arcy)
 
-#Presentation
-**Presented February 21, 2022 via Zoom to students, faculty and prospective employers.**
+# Presentation
+## **Presented February 21, 2022 via Zoom to students, faculty and prospective employers.**
 
 ### View the project presentation video on VIMEO. Instructor critique begins at 35:17.
 
